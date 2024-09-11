@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+/*page1*/
+.pg1 .red1{
+    height: 30vh;
+    background-color: red;
+    position: relative;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;   
+}
+.pg1 .black1{
+    height: 70vh;
+    background-color: black;
+    position: relative;
+}
+.logo i{
+    font-size: 1.7rem;
+    padding: 5px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top:20vh;
+    margin-right: 20px;
+
+   
+}
+.workimg{
+    z-index: 1;
+    margin-top: 15vh;
+    margin-left: 60px;
+}
+.sub .tit{
+    color: white;
+    font-size: 3rem;
+
+}
+.sub SUB{
+    color: gray;
+    font-size: 20px;
+}
+.logo{
+    margin-right: 60px;
+}
+
+/* .redb{
+    width: 10px;
+    height: 10px;
+    
+}
+.des.ver{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    
+
+} */
+
+ /*page2*/
+ .pg2{
+    height: 200vh;
+    background-color: red;
+    
+ }
+ .head1 h1{
+    padding-top: 40px;
+    padding-left: 50px;margin-bottom: 30px;
+    color: white;
+    font-size: 2.5rem;
+ }
+ .num{
+    font-size: 2.5rem;
+    color: white;
+ }
+ .cointainer .con1{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 60px;
+ }
+.subhed{
+    display: flex;
+    margin-left: 60px;
+}
+.subcon{
+    margin-top: 10px;
+}
+#note{
+    padding: 5px;
+    background-color: white;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+.w1{
+    width: 6px;
+    height: 60px;
+    border-radius: 5px;
+    background-color: white;
+    margin-right: 10px;
+    
+}
+.line{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.para{
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    line-height: 20px;
+
+}
+.h3{
+    word-spacing: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cointainer2 .con2{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 60px;
+ }
+ .w2{
+    width: 5px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: white;
+    margin-right: 10px;
+ }
+ .cointainer3 .con3{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 60px;
+ }
+ .w3{
+    width: 4px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: white;
+    margin-right: 10px;
+ }
+ .next{
+    width: 100%;
+    height: 100px;
+ }
+ .w9{
+    width: 4px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: white;
+    margin-right: 10px;
+ }
+ /*page4*/
+ .pg4{
+
+ }
+ .red4{
+    height: 30vh;
+    background-color: red;
+    
+ }
+ .white4{
+    height: 70vh;
+    background-color: white;
+    
+ }
+ .f{
+    color: white;
+    font-size: 2.8rem;
+    margin-left: 100px;
+ }
+.head4{
+    padding-top: 45px;
+}
+.white4 .poto4{
+    z-index: 1;
+    display: flex;
+    margin-top: 20px;
+}
+.pg42{
+    margin-left: 50px;
+}
+.redbar{
+    height: 5px;
+    width: 50px;
+    background-color: red;
+    border-radius: 5px;
+    margin: 15px 0px;
+
+}
+.all{
+    margin-left: 35%;
+}
+.pg4con {
+    justify-content: center;
+    align-items: center;
+}
+.p1{
+    margin-right: 60px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/*pg5*/
+.pg5{
+
+}
+.red5{
+    background-color: red;
+    height: 30vh;
+}
+.white5{
+    background-color: white;
+    height: 70vh;
+}
+.all5{
+
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.redbar5{
+    height: 5px;
+    width: 50px;
+    background-color: red;
+    border-radius: 5px;
+    margin: 15px 0px;
+}
+.p5{
+    margin-right: 45%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.poto5{
+    margin-top: 25px ;
+    
+}
+.pg52{
+    margin-left: 30px;
+    
+}
+.kamal{
+    height: 2px;
+    background-color: black;
+}
